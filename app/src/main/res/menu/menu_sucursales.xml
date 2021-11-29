@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity4">
+
+    <item android:id="@+id/principal"
+        android:title="Pantalla Principal" />
+    <item android:id="@+id/productos"
+        android:title="Bautizos">
+    </item>
+    <item android:id="@+id/servicios"
+        android:title="Matrimonio">
+    </item>
+    <item android:id="@+id/quince"
+        android:title="Quince Años">
+    </item>
+    <item android:id="@+id/grados"
+        android:title="Grados">
+    </item>
+</menu>

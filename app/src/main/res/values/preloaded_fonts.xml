@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/artifika</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/coiny</item>
+        <item>@font/delius_unicase</item>
+        <item>@font/voltaire</item>
+    </array>
+</resources>
